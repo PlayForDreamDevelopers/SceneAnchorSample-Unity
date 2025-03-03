@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/SceneAnchorSample.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    YVR.Core.XR.YVRXRSettings: {fileID: 11400000, guid: 7a614fdf58b3b514a9e9053747094619, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 84d2e5738aeaf384ba98b256145a82d0, type: 2}
+    YVR.Core.XR.YVRXRSettings: {fileID: 11400000, guid: 30b3e20adc0d59249a059e137ed37d6d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 05772c578659e4146b2d8a9e856b52a4, type: 2}

@@ -263,21 +263,23 @@
       "url": "https://packages.unity.com"
     },
     "com.yvr.core": {
-      "version": "file:com.yvr.core",
+      "version": "git@github.com:PlayForDreamDevelopers/com.yvr.core-mirror.git?path=/com.yvr.core#212cf5ea67829799bcd8b9f7f7963b2dfd0b0505",
       "depth": 0,
-      "source": "embedded",
+      "source": "git",
       "dependencies": {
-        "com.yvr.utilities": "0.7.2",
+        "com.yvr.utilities": "0.15.10",
         "com.unity.xr.management": "3.0.4"
-      }
+      },
+      "hash": "212cf5ea67829799bcd8b9f7f7963b2dfd0b0505"
     },
     "com.yvr.utilities": {
-      "version": "file:com.yvr.utilities",
+      "version": "git@github.com:PlayForDreamDevelopers/com.yvr.utilities-mirror.git?path=/com.yvr.utilities#c06beb422cd7e07324aa50ec3196be2ef1de1205",
       "depth": 0,
-      "source": "embedded",
+      "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
-      }
+      },
+      "hash": "c06beb422cd7e07324aa50ec3196be2ef1de1205"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
