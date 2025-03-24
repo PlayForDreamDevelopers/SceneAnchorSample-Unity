@@ -1,4 +1,4 @@
-[![zh](https://img.shields.io/badge/lang-zh-blue.svg)](./README.zh.md)
+[![us](https://img.shields.io/badge/lang-us-red.svg)](./README.md)
 
 <!-- PROJECT LOGO -->
 <br />
