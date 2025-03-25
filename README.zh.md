@@ -58,5 +58,5 @@
 
 -   Unity 2022.3.52f1 或更新版本
 -   Unity 包:
+    -   [YVR Core](https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror)
     -   [YVR Utilities](https://github.com/PlayForDreamDevelopers/com.yvr.Utilities-mirror)
-    -   [YVR Platform](https://github.com/PlayForDreamDevelopers/com.yvr.platform-mirror)

@@ -54,9 +54,9 @@ Load the calibrated spatial scene after completing the calibration process.
 Unload the currently loaded calibrated spatial scene.
 
 
-## 要求
+## Requirements
 
 -   Unity 2022.3.52f1 or later
 -   Unity Packages:
+    -   [YVR Core](https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror)
     -   [YVR Utilities](https://github.com/PlayForDreamDevelopers/com.yvr.Utilities-mirror)
-    -   [YVR Platform](https://github.com/PlayForDreamDevelopers/com.yvr.platform-mirror)
