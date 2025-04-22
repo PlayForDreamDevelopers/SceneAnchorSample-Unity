@@ -28,3 +28,9 @@ MonoBehaviour:
   outerExtraPassRenderScale: 1
   innerExtraPassRenderScale: 1
   isP3: 0
+  require6Dof: 1
+  handTrackingSupport: 0
+  eyeTrackingSupport: 0
+  requireSpatialAnchor: 1
+  requireSceneAnchor: 1
+  LBESupport: 0
